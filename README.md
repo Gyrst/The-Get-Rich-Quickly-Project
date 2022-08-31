@@ -13,6 +13,6 @@ More details will be added on the go.. (perhaps)
 
 ### Resources
 
-+ https://www.biteinteractive.com/of-git-and-github-master-and-main/
 + Balance Sheet Data API and analysis of balance sheets --> https://www.youtube.com/watch?v=ZAAuGEVJsH8
 + Why Python is so popular in Finance https://www.youtube.com/watch?v=kBwOy-6CtAQ
++ Portfolio design in a jupyter notebook https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
