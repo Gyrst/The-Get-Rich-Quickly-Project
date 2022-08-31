@@ -11,8 +11,21 @@ More details will be added on the go.. (perhaps)
 + Compound returns (return of returns) can be calculated using the log()
 
 
-### Resources
+### Valuable Resources to Learn
 
 + Balance Sheet Data API and analysis of balance sheets --> https://www.youtube.com/watch?v=ZAAuGEVJsH8
 + Why Python is so popular in Finance https://www.youtube.com/watch?v=kBwOy-6CtAQ
 + Portfolio design in a jupyter notebook https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
+
+
+### Data Resources
++ To get live stock data https://data.nasdaq.com/
++ pandas_datareader (pip install pandas_datareader)
+
+
+
+Getting the latest version of the pandas_datareader:
+
+```bash
+pip install git+https://github.com/pydata/pandas-datareader.git
+´´´
