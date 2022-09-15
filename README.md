@@ -19,9 +19,9 @@ More details will be added on the go.. (perhaps)
 
 
 ### Data Resources
-+ To get live stock data https://data.nasdaq.com/
++ To get live stock prices data (https://data.nasdaq.com/)
 + pandas_datareader (pip install pandas_datareader)
-
++ Financial Modeling Prep API (https://site.financialmodelingprep.com/developer)
 
 
 Getting the latest version of the pandas_datareader:
