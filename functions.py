@@ -1,4 +1,6 @@
 from math import log, sqrt
+"""_summary_: Functions for return calculations etc."""
+
 
 def display_as_percentage( value):   
     return '{:.1f}%'.format(value * 100)
